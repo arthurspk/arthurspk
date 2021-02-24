@@ -14,8 +14,8 @@
  <br>
 Olá, eu sou o Arthur! 🇧🇷
 <br>
- Estudante do 7° semestre de Análise e Desenvolvimento de Sistemas pela FIC. <br>
- Focando meus estudos em desenvolvimento back-end. =)
+ Estudante de Ciência da Computação pela UNIT - Centro Universitário Tiradentes. <br>
+ Focando meus estudos em desenvolvimento front-end & back-end. =)
 </h3>
 
 <br>
