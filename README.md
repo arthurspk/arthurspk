@@ -1,7 +1,7 @@
 
 <h4 align="center">
  
-![Hello](https://imgur.com/a/rF6vwtd.gif)
+![Hello](https://imgur.com/rF6vwtd.gif)
 
 <hr>
 
