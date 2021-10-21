@@ -40,8 +40,6 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 - Estou cursando Ciência da Computação. 💻
 
-
-
 <br>
 
 ## Meu Linktree [:link:](https://linktr.ee/arthurspk)
