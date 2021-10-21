@@ -34,7 +34,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ## Alguns fatos sobre mim 👨🏻‍💻
 
 - Eu tenho uma comunidade chamada Guia Dev Brasil que ajuda pessoas na área de computação. [:link:](https://linktr.ee/guiadevbrasil)
-- Tenho um repositório para ajudar e guiar pessoas na sua trilha de desenvolvimentos.  [:link:](https://github.com/arthurspk/guiadevbrasil)
+- Tenho um repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/arthurspk/guiadevbrasil)
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
 
