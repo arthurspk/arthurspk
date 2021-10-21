@@ -31,7 +31,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   - MongoDB
   - MySQL
 
-## Alguns fatos sobre mim.
+## Alguns fatos sobre mim 👨🏻‍💻
 
 - Eu tenho uma comunidade chamada Guia Dev Brasil que ajuda pessoas na área de computação. [:link:](https://linktr.ee/guiadevbrasil)
 - Tenho um repositório para ajudar e guiar pessoas na sua trilha de desenvolvimentos.  [:link:](https://github.com/arthurspk/guiadevbrasil)
