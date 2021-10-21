@@ -21,5 +21,5 @@ Olá, eu sou o Arthur! 🇧🇷
 <br>
 
 ![A GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight)](https://github.com/arthurspk)
+
 
