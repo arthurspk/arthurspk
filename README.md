@@ -44,7 +44,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 <br>
 
-## Meu Linktree:
+## Meu Linktree [:link:](https://linktr.ee/arthurspk)
 
 ## Meus dados no Github
 ![A GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight) 
