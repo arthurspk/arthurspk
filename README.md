@@ -43,7 +43,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ## Meu Linktree [:link:](https://linktr.ee/arthurspk)
 
 ## Meus dados no Github
-![A GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight)](https://github.com/arthurspk)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=cobalt)](https://github.com/arthurspk)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
