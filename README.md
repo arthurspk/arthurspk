@@ -23,9 +23,11 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
-  - HTML
-  - CSS
   - JavaScript
+  - Node.js
+  - AWS Serveless
+  - Amazon DynamoDB
+  - GraphQL
   - React
   - Java
   - MongoDB
@@ -41,6 +43,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 - Estou cursando Ciência da Computação. 💻
 
 ## Meu Linktree [:link:](https://linktr.ee/arthurspk)
+  - [Linktree](https://linktr.ee/arthurspk)
 
 ## Meus dados no Github
 
