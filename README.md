@@ -20,8 +20,7 @@ Hi, I'm Arthur, Brazilian passionate about technology and travel.
 </h3>
 
 ```
-Computer Science student at UNIT - Tiradentes University Center,
-I've been fascinated by computing since I was a kid and currently I'm dedicated to becoming a full-stack developer and cybersecurity expert.
+Computer Science student at UNIT — Centro Universitário Tiradentes, I have been fascinated by computing since I was a child, and currently I dedicate myself to becoming a full-stack developer and cybersecurity specialist.
 ```
 ## Technologies I am currently studying 💻
 
