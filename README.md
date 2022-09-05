@@ -26,12 +26,13 @@ and currently I dedicate myself to becoming a full-stack developer and cybersecu
 ## Technologies I am currently studying 💻
 
   - JavaScript
+  - TypeScript
   - Node.js
   - AWS Serveless
   - Amazon DynamoDB
   - GraphQL
   - React
-  - Java
+  - Python
   - MongoDB
   - MySQL
 
