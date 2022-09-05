@@ -8,20 +8,22 @@
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/arthurspk/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/arthurspk)](https://open.spotify.com/user/Heimdallr0?fbclid=IwAR0vLf9kXegU7iZNCy3IJ1S6vb3sJ6CRRXelpW5tDOG5trSUGZ8SK4-Yjfg)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arthurguiadev)
 </h4>
 
 <h3 align="center">  <br>
-
-Olá, eu sou o Arthur! 🇧🇷
+Hi, I'm Arthur, Brazilian passionate about technology and travel.
 <br>
 
 </h3>
 
 ```
-Estudante de Ciência da Computação pela UNIT - Centro Universitário Tiradentes, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+Computer Science student at UNIT - Tiradentes University Center,
+I've been fascinated by computing since I was a kid and currently I'm dedicated to becoming a full-stack developer and cybersecurity expert.
 ```
-## Tecnologias que estou estudando atualmente 💻
+## Technologies I am currently studying 💻
 
   - JavaScript
   - Node.js
@@ -33,19 +35,17 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   - MongoDB
   - MySQL
 
-## Alguns fatos sobre mim 👨🏻‍💻
+## Some facts about me 👨🏻‍💻
 
-- Eu tenho uma comunidade chamada Guia Dev Brasil que ajuda pessoas na área de computação. [:link:](https://linktr.ee/guiadevbrasil)
-- Tenho um repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/arthurspk/guiadevbrasil)
+- I have a community called Guia Dev Brasil that helps people in the computing field. [:link:](https://linktr.ee/guiadevbrasil)
+- I have several repositories to help and guide people on their development path.  [:link:](https://github.com/arthurspk/guiadevbrasil)
+- I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
+- I'm studying Computer Science. 💻
 
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
-
-- Estou cursando Ciência da Computação. 💻
-
-## Meu Linktree [:link:](https://linktr.ee/arthurspk)
+## My Linktree [:link:](https://linktr.ee/arthurspk)
   - [Linktree](https://linktr.ee/arthurspk)
 
-## Meus dados no Github
+## My stats on Github 💫
 
 <!-- <span style="height ">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
@@ -55,4 +55,3 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 [![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
