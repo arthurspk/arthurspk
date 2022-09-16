@@ -43,8 +43,9 @@ and currently I dedicate myself to becoming a full-stack developer and cybersecu
 - I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
 - I'm studying Computer Science. 💻
 
-## My Linktree [:link:](https://linktr.ee/arthurspk)
+## My Links [:link:](https://linktr.ee/arthurspk)
   - [Linktree](https://linktr.ee/arthurspk)
+  - [Beacons](https://beacons.ai/arthurspk)
 
 ## My stats on Github 💫
 
