@@ -47,7 +47,7 @@ The true soldier does not fight because he hates what is in front of him, but be
           📷 <a href="https://www.instagram.com/arthurspk/">Follow me on instagram</a>
         </li>
         <li>
-          📬 <a href="arthurguiadev@gmail.com">Contact-me on email</a>
+          📬 <a href=mailto:arthurguiadev@gmail.com>Contact-me on email</a>
         </li>
       </ul>
     </td>
