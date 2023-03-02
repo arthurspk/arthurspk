@@ -13,7 +13,7 @@
 </h4>
 
 
-I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences, I think that knowledge is something everyone should have access to, and I wanted to have the experience of living in Africa for a while.
+I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences, I think that knowledge is something everyone should have access to, and I wanted to have the experience of living in U.S. or Canada for a while.
 
 I have knowledge in: JavaScript, TypeScript, Node.js, AWS, Serverless, DynamoDB, GraphQL, React, Gatsby, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, SaSS, Bootstrap, Wordpress, Git, Docker, Linux, MacOS, Windows, Figma, Photoshop.
 
