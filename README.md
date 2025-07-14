@@ -8,7 +8,7 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arthurguiadev)
 
-I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and knowledge, I think that knowledge is something everyone should have access to, and I wanted to have the experience of living in U.S. or Canada for a while.
+I'm passionate about technology! I first encountered computers when I was 7 years old, and since then, I've been discovering more about this wonderful field. I love the opportunities technology offers and the idea of making people's lives easier. I dream of traveling the world, sharing my knowledge and gaining new experiences. I believe knowledge is something everyone should have access to, and I'd love to experience traveling the world for a while.
 
 I have knowledge in: JavaScript, TypeScript, Node.js, AWS, Serverless, DynamoDB, GraphQL, React, Gatsby, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, SaSS, Bootstrap, Wordpress, Git, Docker, Linux, MacOS, Windows, Figma, Photoshop.
 
