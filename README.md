@@ -8,7 +8,8 @@ I have a community called Guia Dev Brazil that helps people in the computing are
 
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at arthurguiadev@gmail.com
 
-> To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other and to feel. That is the purpose of life. 
+> "To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other and to feel. That is the purpose of life."
+>
 > ━ The Secret Life of Walter Mitty
  
 <table border="0" cellspacing="0" cellpadding="0">
