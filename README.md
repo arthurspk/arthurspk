@@ -16,7 +16,7 @@ I have a community called Guia Dev Brazil that helps people in the computing are
 
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at arthurguiadev@gmail.com
 
-The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him. - G. K. Chesterton
+To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other and to feel. That is the purpose of life.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
