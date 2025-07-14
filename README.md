@@ -10,7 +10,7 @@
 
 I'm passionate about technology! I first encountered computers when I was 7 years old, and since then, I've been discovering more about this wonderful field. I love the opportunities technology offers and the idea of making people's lives easier. I dream of traveling the world, sharing my knowledge and gaining new experiences and insights. I believe knowledge is something everyone should have access to, and I'd also like to experience traveling the world for a while while working on my projects.
 
-I have knowledge in: JavaScript, TypeScript, Node.js, AWS, Serverless, DynamoDB, GraphQL, React, Gatsby, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, SaSS, Bootstrap, Wordpress, Git, Docker, Linux, MacOS, Windows, Figma, Photoshop.
+I have knowledge in: JavaScript, TypeScript, Node.js, AWS, Serverless, DynamoDB, GraphQL, React, Material UI, Shadcn, ChakraUI, Gatsby, Python, MongoDB, SQL, MySQL, Rest API, HTML, Bootstrap, CSS, SaSS, Panda CSS, Tailwind, Wordpress, Git, Docker, Linux, MacOS, Windows, Figma, and Command line systems.
 
 I have a community called Guia Dev Brazil that helps people in the computing area, whose purpose is to make free and quality content available to the whole world and introduce more people in the area of technology, in the community there are several repositories to help and guide people in its development path, I love to know new things, work in groups and have new experiences, I want to work outside Brazil, improve my English and meet new cultures, people and have new experiences, currently I also study computer science and I dedicate myself to becoming a full-stack developer and cybersecurity specialist.
 
