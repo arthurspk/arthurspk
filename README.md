@@ -25,7 +25,7 @@ To see the world, things dangerous to come to, to see behind walls, draw closer,
       <h3>Other places you can find me</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/manotoquinho">Follow me on X</a>
+          🐦 <a href="https://x.com/manotoquinho">Follow me on X</a>
         </li>
         <li>
           📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Subscribe on Youtube</a>
@@ -40,9 +40,3 @@ To see the world, things dangerous to come to, to see behind walls, draw closer,
     </td>
   </tr>
 </table>
-
-| ![Arthur Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurspk&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurspk&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=arthurspk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
