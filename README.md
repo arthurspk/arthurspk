@@ -41,6 +41,6 @@ To see the world, things dangerous to come to, to see behind walls, draw closer,
   </tr>
 </table>
 
-| ![Arthur Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurspk&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurspk&theme=github_dark) |
+| ![Arthur Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurspk&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurspk&theme=dark) |
 | :-: | :-: |
 
