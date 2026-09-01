@@ -1,0 +1,39 @@
+name: 🔗 Link quebrado
+description: Reporte um link do perfil que não abre, redireciona para outro lugar ou está desatualizado.
+title: "[Link quebrado]: "
+labels: ["link-quebrado"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Se o link quebrado está **dentro de um guia** (curso, livro, canal…), abra a issue no repositório daquele guia. Este template é só para links **deste perfil** (vitrine, estatísticas, redes).
+  - type: input
+    id: link
+    attributes:
+      label: Link com problema
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: input
+    id: secao
+    attributes:
+      label: Seção do perfil onde ele está
+      placeholder: "Ex.: ⭐ Vitrine dos guias"
+    validations:
+      required: true
+  - type: dropdown
+    id: problema
+    attributes:
+      label: O que acontece
+      options:
+        - Erro 404 / página não existe
+        - Redireciona para outra página
+        - Conteúdo removido ou desatualizado
+        - Outro (descreva abaixo)
+    validations:
+      required: true
+  - type: input
+    id: substituto
+    attributes:
+      label: Sugestão de substituto (opcional)
+      placeholder: "https://..."
