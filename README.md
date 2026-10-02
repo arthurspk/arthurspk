@@ -1,4 +1,4 @@
-<h1> Hi, I'm Arthur 👨🏻‍💻 - @guiadevbrasil @lorotravels @pantanalstudio </h1>
+<h1> Hi, I'm Arthur 👨🏻‍💻 - @guiadevbrasil @pantanalstudio @lorotravels  </h1>
 
 I'm passionate about technology! I first encountered computers when I was 7 years old, and since then, I've been discovering more about this wonderful field. I love the opportunities technology offers and the idea of making people's lives easier. I dream of traveling the world, sharing my knowledge and gaining new experiences and insights. I believe knowledge is something everyone should have access to, and I'd also like to experience traveling the world for a while while working on my projects.
 
